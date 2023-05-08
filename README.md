@@ -1,2 +1,1 @@
-# odin-recipes
-Recipes Project
+A basic recipe website made by using html.
